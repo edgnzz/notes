@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Wrote notes on upcoming feature design
 - Added basic retry logic for network requests
+
+## 2026-06-06
+- Addressed feedback from self code review
+- Drafted initial implementation plan for v2
+- Updated .gitignore to exclude build artifacts
