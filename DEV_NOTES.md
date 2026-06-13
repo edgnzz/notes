@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Drafted initial implementation plan for v2
 - Updated .gitignore to exclude build artifacts
+
+## 2026-06-13
+- Updated .gitignore to exclude build artifacts
